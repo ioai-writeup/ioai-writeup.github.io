@@ -1,0 +1,5 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+all_collections/_posts/1970-01-01-scratchpad.md

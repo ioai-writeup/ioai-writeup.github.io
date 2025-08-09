@@ -1,0 +1,4 @@
+---
+title: homepage
+layout: blog
+---
