@@ -22,3 +22,6 @@ bundle exec jekyll serve --baseurl ""
 7. Commit the changes
 8. Open a pull request (the button should be visible under the "Contributing" menu of your fork's GitHub page)
 9. 🎉🎉🎉
+
+### Some other info
+The local development instructions were only tested on a Windows machine. If you have any issues please open an Issue via GitHub or send a message in the IOAI Official Discord. 
