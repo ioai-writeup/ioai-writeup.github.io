@@ -1,10 +1,10 @@
 title: hldblog
 markdown: kramdown
-url: "https://heavylightdecomp.github.io/"
-baseurl: "/blog"
+url: "https://ioai-writeup.github.io"
+baseurl: "/"
 # for atom feed
 author:
-  name: heavylightdecomp
+  name: ioai contributors
 
 plugins:
   - jemoji
