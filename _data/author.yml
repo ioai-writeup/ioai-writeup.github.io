@@ -2,13 +2,13 @@ name: heavylightdecomp
 dp: https://avatars.githubusercontent.com/u/111647750?s=460&v=4
 description: "
   <p>
-    Programmer and problem solver
+    An unofficial repository for solutions/writeups/editorials for the International Olympiad in Artificial Intelligence.
   </p>
   <br/>
   <p>
-    Feel free to give me a follow on my <a href='https://github.com/heavylightdecomp' target='_blank'>Github</a>
+    Contributions are always welcome! Feel free to submit a pull request at our <a href='https://github.com/ioai-writeup/ioai-writeup.github.io' target='_blank'>Github repository</a>
   </P>
 "
 contact:
   - title: github
-    url: https://github.com/heavylightdecomp
+    url: https://github.com/ioai-writeup/ioai-writeup.github.io
