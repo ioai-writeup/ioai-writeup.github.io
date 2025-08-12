@@ -4,6 +4,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="XvYQjEo-g9gsXwO5O5hY81RmeYZBAGQYkQzl4gA7kho" />
   <title>{{page.title}} | {{site.title}}</title>
+  {% if site.google_analytics %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
   {% if page.layout == "post" %}
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />

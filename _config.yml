@@ -6,6 +6,9 @@ baseurl: "/"
 author:
   name: ioai contributors
 
+# Google Analytics 4
+google_analytics: G-6GCPYEXD7M
+
 plugins:
   - jemoji
   - jekyll-seo-tag
