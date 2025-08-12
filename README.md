@@ -23,14 +23,5 @@ bundle exec jekyll serve --baseurl ""
 8. Open a pull request (the button should be visible under the "Contributing" menu of your fork's GitHub page)
 9. 🎉🎉🎉
 
-### Google Analytics Setup
-
-To enable Google Analytics 4 tracking:
-
-1. Go to [Google Analytics](https://analytics.google.com/) and create a new property
-2. Get your Measurement ID (starts with "G-")
-3. Replace `G-XXXXXXXXXX` in `_config.yml` with your actual Measurement ID
-4. Deploy your site - analytics will start tracking automatically
-
 ### Some other info
 The local development instructions were only tested on a Windows machine. If you have any issues please open an Issue via GitHub or send a message in the IOAI Official Discord. 
